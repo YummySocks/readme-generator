@@ -9,7 +9,7 @@ function renderLicenseBadge(license) {
     case "GPL 3.0":
       return"![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)"
     case "BSD 3":
-      return"![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)" 
+      return"![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)"
     default:
       return ""
      

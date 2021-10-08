@@ -1,9 +1,9 @@
-# Readme Generator
+# readme-generator
 
 
 ## Description
 
-generates a readme based on user input
+generates a readme based on user input and gives badges based on license and other things
 
 ## Table of Contents
 
