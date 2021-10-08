@@ -1,9 +1,9 @@
-# Readme-generator
+# Readme Generator
 
 
 ## Description
 
-generates readme based on user input
+generates a readme based on user input
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ generates readme based on user input
 
 * [Usage](#usage)
 
-* [License](#license)
+
 
 * [Contributing](#contributing)
 
@@ -19,29 +19,29 @@ generates readme based on user input
 
 * [Questions](#questions)
 
-## Installation {#installation}
+## Installation
 
 to install necessary dependencies, run the following command:
 
 npm i
 
-## Usage {#usage}
-
-none
-
-undefined
-
-##Contributing {#contributing}
+## Usage
 
 nothing
 
-##Tests {#tests}
+
+
+## Contributing
+
+nothing
+
+## Tests
 
 to run tests run the following command:
 
+none
 
-
-##questions 
+## Questions 
 
 User name: YummySocks
 Email: patrickdsutcliffe@gmail.com
